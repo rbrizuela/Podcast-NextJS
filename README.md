@@ -5,7 +5,7 @@ para aprender Next.JS
 
 ![Captura de la App](./.readme-static/podcast.jpg)
 
-[Ver la Aplicacion] ()
+[Ver la Aplicacion] (https://podcasts-bl0syq0zn.now.sh/)
 
 ## ¿Como funciona?
 
